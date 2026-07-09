@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Payal Choudhary</h1>
 
+<p align="center">
+Computer Science & Engineering Student @ <b>IIITDM Jabalpur</b>
+</p>
+
 <h3 align="center">
 Aspiring Software Engineer • Full Stack Developer • Competitive Programming
 </h3>
-
-<p align="center">
-Computer Science & Engineering Student at <b>IIITDM Jabalpur</b>
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Building+Real+World+Projects;Learning+Web+Development;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
