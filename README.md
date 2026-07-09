@@ -5,7 +5,7 @@ Computer Science & Engineering Student @ <b>IIITDM Jabalpur</b>
 </p>
 
 <h3 align="center">
-Aspiring Software Engineer • Full Stack Developer • Competitive Programming
+Aspiring Software Engineer • Full Stack Development • Competitive Programming
 </h3>
 
 <p align="center">
