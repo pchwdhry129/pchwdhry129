@@ -110,7 +110,7 @@ Computer Science & Engineering Student at <b>IIITDM Jabalpur</b>
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
