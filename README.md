@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Payal Choudhary</h1>
 
 <h3 align="center">
-Aspiring Software Engineer • Web Development • Data Structures & Algorithms
+Aspiring Software Engineer • Full Stack Developer • Competitive Programming
 </h3>
 
 <p align="center">
